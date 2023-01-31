@@ -1,5 +1,5 @@
-# baby-bottle-pop
-A mobile AR application where users interact with markers that display a venues information/reviews
+# AR World
+AR World is an augmented reality mobile application that allows users to interact with the world around them. Users can visit places and view their information or leave reviews for others to see.
 <!-- # capstone
 
 ## Project Title - mARket
