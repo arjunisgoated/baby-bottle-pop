@@ -26,6 +26,7 @@ AR World is an augmented reality mobile application that allows users to interac
 # Features
 
 <h3>Filtering</h3>
+![image](https://user-images.githubusercontent.com/68246211/215644137-2fa62f2e-ae3c-4b50-a532-a73650f371f6.png)
 <img src='./js/res/filtering.png' width='400'>
 <h3>View Information</h3>
 <img src='./js/res/view.png' width='400'>
