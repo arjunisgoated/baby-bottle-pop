@@ -82,9 +82,6 @@ Enjoy!
 - [Viro](https://viromedia.com/) - AR/VR Library
 - [Axios](https://www.npmjs.com/package/axios) - HTTP client
 
-## Authors
+## Author
 
-- **Phurba Sherpa** - _Developer_
-- **Yooni Park** - _Developer_
-- **Martin Ng** - _Developer_
-- **Alex Penaloza** - _Developer_
+- **Arjun Nair** - _Developer_
